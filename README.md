@@ -1,5 +1,5 @@
 ```clojure
-[com.ninjakoala/instance-metadata "1.0.0"]
+[com.ninjakoala/aws-instance-metadata "1.0.0"]
 ```
 
 ```clojure
