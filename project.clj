@@ -1,4 +1,4 @@
-(defproject com.ninjakoala/aws-instance-metadata "1.0.1-SNAPSHOT"
+(defproject com.ninjakoala/aws-instance-metadata "1.0.1"
   :description "Handles querying local instance metadata in EC2 instances"
   :url "https://github.com/ninjakoala/instance-metadata"
   :license {:name "Eclipse Public License"
