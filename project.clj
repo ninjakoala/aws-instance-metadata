@@ -9,7 +9,7 @@
                  [org.clojure/clojure "1.8.0"]
                  [org.clojure/tools.logging "0.4.0"]
                  [org.tobereplaced/lettercase "1.0.0"]]
-  :profiles {:dev {:dependencies [[midje "1.8.3"]]
+  :profiles {:dev {:dependencies [[midje "1.9.0"]]
                    :plugins [[lein-midje "3.2.1"]]}}
   :aliases {"test" ["midje"]}
   :release-tasks [["vcs" "assert-committed"]
